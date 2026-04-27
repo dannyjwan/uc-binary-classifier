@@ -41,7 +41,6 @@ uc-binary-classifier/
 │   ├── models/            # PyTorch model definitions
 │   └── utils/             
 │       └── utils.py       # Core helper functions 
-├── scripts/               # SLURM job submission scripts for Amarel
 ├── requirements.txt       # Environment dependencies
 └── README.md              # Project documentation
 ```
